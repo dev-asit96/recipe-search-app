@@ -25,6 +25,7 @@ Projet is designed with:
 - Setting Up The React App
   - Create your react app as `$ npx create-react-app recipe-search-app`
   - Go into your newly created folder `$ cd recipe-search-app`
+  - Install all the dependencies `$ npm install`
   - Start the development server by `$ npm start`
 - Adding Bootstarp
   - Import `bootstrap/dist/css/bootstrap.min.css`
